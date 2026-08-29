@@ -1,0 +1,16 @@
+{
+  "name": "applock-remote-server",
+  "version": "1.0.0",
+  "description": "AppLock Remote Control Server - lock/unlock Android apps from a web dashboard",
+  "main": "server.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["android", "applock", "remote", "control"],
+  "author": "",
+  "license": "ISC"
+}
